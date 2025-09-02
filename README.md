@@ -31,9 +31,3 @@ Each problem is in a separate file:
 
 ---
 
-## 🚀 How to Run the Code
-
-1. Install **Python 3.x** from [python.org](https://www.python.org/downloads/).  
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
